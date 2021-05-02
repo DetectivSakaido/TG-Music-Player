@@ -23,10 +23,10 @@ The commands I currently support are:
             [
                 [
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/HiTechRockets"
+                        "Owner", url="https://t.me/AMSuserbot"
                     ),
                     InlineKeyboardButton(
-                        "Channel", url="https://t.me/HiTechRocket"
+                        "Channel", url="https://t.me/animemusicstash"
                     )
                 ]
             ]
